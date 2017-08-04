@@ -8,6 +8,7 @@
 #define DELAY 100
 int handlingI();
 int handlingA();
+int handlingB();
 
 int main()
 {
